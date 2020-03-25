@@ -1,4 +1,4 @@
-# PointPounchv2.0
+# PointPounch v2.0
 
 - Command: /rpoint <Cấp Rương> <Người Chơi>(Rương Point)
 + Dùng Để Nhận Rương Và Tặng Rương Cho Người Chơi.
