@@ -1,1 +1,10 @@
 
+name: PointPouch
+version: 2.0
+api: 3.0.0
+main: PointPouch\Main
+author: HituilaHuy
+
+commands:
+  rpoint:
+    description: "Lấy Rương Quay Point"
