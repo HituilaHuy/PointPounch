@@ -14,7 +14,7 @@
 
 # English
 
-- Command: / rpoint <Level Chest> <Player> (Chest Point)
+- Command: / rpoint < Level > < Player > (Chest Point)
 + Used to Receive Chests and Give Chests to Players.
 
 - There are many levels, change as you like at config
