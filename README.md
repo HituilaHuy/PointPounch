@@ -7,7 +7,7 @@
 - Rương Point dùng để nhận Point
 
 - Cần: PointAPI
-- Edit từ MoneyPouch của tác giả 
+- Edit từ MoneyPouch của tác giả iZeaoGamer
 - Edit by HituilaHuy
 
 ========================================
@@ -21,7 +21,7 @@
 - Point Chests for getting points
 
 - Need: PointAPI
-- Edit from MoneyPouch of the author
+- Edit from MoneyPouch of the author iZeaoGamer
 - Edit by HituilaHuy
 
 ========================================
